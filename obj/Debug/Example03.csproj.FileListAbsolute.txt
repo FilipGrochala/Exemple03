@@ -1,0 +1,20 @@
+C:\Users\filip\Documents\Example03\obj\Debug\Example03.csprojAssemblyReference.cache
+C:\Users\filip\Documents\Example03\obj\Debug\RTadeusiewicz.NN.Example03.ExperimentPanel.resources
+C:\Users\filip\Documents\Example03\obj\Debug\RTadeusiewicz.NN.Example03.MainForm.resources
+C:\Users\filip\Documents\Example03\obj\Debug\RTadeusiewicz.NN.Example03.Properties.Resources.resources
+C:\Users\filip\Documents\Example03\obj\Debug\RTadeusiewicz.NN.Example03.SetUpPanel.resources
+C:\Users\filip\Documents\Example03\obj\Debug\RTadeusiewicz.NN.Example03.TeachingPanel.resources
+C:\Users\filip\Documents\Example03\obj\Debug\Example03.csproj.GenerateResource.cache
+C:\Users\filip\Documents\Example03\bin\Debug\Default teaching set 03.txt
+C:\Users\filip\Documents\Example03\bin\Debug\Example03.exe
+C:\Users\filip\Documents\Example03\bin\Debug\Example03.pdb
+C:\Users\filip\Documents\Example03\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\filip\Documents\Example03\bin\Debug\NeuralNetworks.dll
+C:\Users\filip\Documents\Example03\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\filip\Documents\Example03\bin\Debug\RTadeusiewicz.NN.Controls.dll
+C:\Users\filip\Documents\Example03\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\filip\Documents\Example03\bin\Debug\NeuralNetworks.pdb
+C:\Users\filip\Documents\Example03\bin\Debug\RTadeusiewicz.NN.Controls.pdb
+C:\Users\filip\Documents\Example03\obj\Debug\Example03.csproj.CopyComplete
+C:\Users\filip\Documents\Example03\obj\Debug\Example03.exe
+C:\Users\filip\Documents\Example03\obj\Debug\Example03.pdb

@@ -10,7 +10,7 @@ namespace RTadeusiewicz.NN.Example03
     {
         private string _teachingSetFileName;
 
-        internal string TeachingSetFileName
+        internal string TeachingSetFileNam
         {
             get { return _teachingSetFileName; }
         }

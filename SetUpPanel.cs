@@ -19,9 +19,9 @@ namespace RTadeusiewicz.NN.Example03
         {
             _programLogic = programLogic;
             InitializeComponent();
-            if (_programLogic.TeachingSetFileName != null)
+            if (_programLogic.TeachingSetFileNam != null)
                 uiOpenFile.FileName = uiTeachingSet.Text =
-                    _programLogic.TeachingSetFileName;
+                    _programLogic.TeachingSetFileNam;
             else
                 ResetToDefault();
         }
